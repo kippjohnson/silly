@@ -35,7 +35,6 @@ fi
 
 ## Some parameter definitions
 leftmargin="10" ## How many chars from the left should everything start?
-lspaces=$(($nchar-1)) # How many from the left side of the should text start?
 
 ## Create sign's top and bottom
 emptystring=$(printf "%${width}s")
